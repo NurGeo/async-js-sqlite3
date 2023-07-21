@@ -1,4 +1,6 @@
 {
+  "name": "async-js-sqlite3",
+  "repository": "git@github.com:NurGeo/async-js-sqlite3.git",
   "devDependencies": {
     "@types/jest": "^29.5.2",
     "@types/sqlite3": "^3.1.8",
